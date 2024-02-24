@@ -18,12 +18,11 @@ This is a web application that fetches and displays a list of products from an A
 - **JavaScript (ES6+)**: Programming language for building the application logic.
 
 ## Installation
-
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
-4. Start the development server using `npm start`.
-5. Access the application in your web browser at `http://localhost:3000`.
+4. Start the development server using `npm run dev`.
+5. Access the application in your web browser at `http://localhost:5173`.
 
 ## Usage
 
