@@ -16,7 +16,7 @@ function ProductList() {
   const [filterBrand, setFilterBrand] = useState('')
 
   const password = 'Valantis'
-  const apiUrl = 'https://api.valantis.store:40000/'
+  const apiUrl = 'https://api.valantis.store:41000/'
   const limit = 50
 
   useEffect(() => {
